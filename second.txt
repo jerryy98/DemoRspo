@@ -1,0 +1,2 @@
+My file inside first branch
+lets see the conflict
